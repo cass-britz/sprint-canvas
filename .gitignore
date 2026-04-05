@@ -31,3 +31,12 @@ obj/
 .DS_Store
 .env
 .env.*
+
+# Server-specific
+local.settings.json
+appsettings.local.json
+appsettings.Development.json
+secrets.json
+
+# Docker
+docker-compose.override.yml

@@ -4,5 +4,16 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			"/^dotnet --version$/": {
+				"approve": true,
+				"matchCommandLine": true
+			},
+			"dotnet sln": true,
+			"dotnet add": true,
+			"dotnet build": true,
+			"dotnet run": true
+		}
+	}
 }
