@@ -1,5 +1,7 @@
 # Plan 1: Agent Standards Setup
 
+**Status:** Done ✓
+
 Goal: Create a minimal agent standards reference for all repository contributors.
 
 1. Create `agent.md` in the repository root.

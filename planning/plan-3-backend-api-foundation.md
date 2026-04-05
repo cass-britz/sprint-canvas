@@ -1,5 +1,7 @@
 # Plan 3: Backend API Foundation
 
+**Status:** To Do
+
 Goal: Build the ASP.NET Core Web API foundation with .NET 9 and Medi8r handlers.
 
 1. Create an ASP.NET Core Web API project targeting .NET 9.

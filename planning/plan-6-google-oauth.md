@@ -1,5 +1,7 @@
 # Plan 6: Google OAuth & Authentication Setup
 
+**Status:** To Do
+
 Goal: Implement Google login and document required tools and keys for the user.
 
 1. List the tools and credentials the user must provide, including Google Cloud OAuth client IDs and secrets.

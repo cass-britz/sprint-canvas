@@ -1,5 +1,7 @@
 # Plan 4: Data Project Integration
 
+**Status:** To Do
+
 Goal: Add a shared `data` project and Azure Cosmos DB integration with user profile support.
 
 1. Help user to setup environment. Document required tools: .NET 9 SDK, Azure CLI, Cosmos DB account, and Azure access keys.

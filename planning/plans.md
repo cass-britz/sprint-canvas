@@ -2,8 +2,8 @@
 
 | Plan | Status | Description | File |
 | --- | --- | --- | --- |
-| Plan 1 | <span style="color:green">Done</span> | Add the agent standards reference file with YAGNI and external guidance links | `plan-1-agent-standards.md` |
-| Plan 2 | To Do | Initialize the Angular 21 frontend and install ngrx signal stores | `plan-2-project-infrastructure.md` |
+| Plan 1 | <span style="color:green">Done ✓</span> | Add the agent standards reference file with YAGNI and external guidance links | `plan-1-agent-standards.md` |
+| Plan 2 | <span style="color:green">Done ✓</span> | Initialize the Angular 21 frontend and install ngrx signal stores | `plan-2-project-infrastructure.md` |
 | Plan 3 | To Do | Build the .NET 9 backend API foundation with Medi8r | `plan-3-backend-api-foundation.md` |
 | Plan 4 | To Do | Add the shared `data` project and Azure Cosmos DB user/profile support | `plan-4-data-project-integration.md` |
 | Plan 5 | To Do | Build the responsive dashboard UI with Material and signal store state | `plan-5-dashboard-ui.md` |

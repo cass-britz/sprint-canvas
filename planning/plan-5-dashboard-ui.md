@@ -1,5 +1,7 @@
 # Plan 5: Dashboard UI
 
+**Status:** To Do
+
 Goal: Build the dashboard using Angular Material and feature signal stores.
 
 1. Create the dashboard feature and a dashboard signal store.
