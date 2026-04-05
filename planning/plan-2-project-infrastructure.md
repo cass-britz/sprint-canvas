@@ -1,6 +1,6 @@
 # Plan 2: Project Infrastructure Setup
 
-**Status:** Done ✓
+**Status:**  <span style="color:green">Done ✓</span>
 
 Goal: Initialize the frontend application using Angular 21, with ngrx signal stores for state management.
 

@@ -1,6 +1,6 @@
 # Plan 3: Backend API Foundation
 
-**Status:** To Do
+**Status:**  <span style="color:green">Done ✓</span>
 
 Goal: Build the ASP.NET Core Web API foundation with .NET 9 and Medi8r handlers.
 
