@@ -10,10 +10,8 @@
 				"approve": true,
 				"matchCommandLine": true
 			},
-			"dotnet sln": true,
-			"dotnet add": true,
-			"dotnet build": true,
-			"dotnet run": true
+			"dotnet": true,
+			"winget": true
 		}
 	}
 }
