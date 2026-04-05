@@ -16,6 +16,9 @@ This file is a minimal reference for agents. Use it to confirm that work follows
 - Use Angular 21, ASP.NET Core Web API on .NET 9, and Medi8r handlers.
 - Use Angular signals and ngrx signal stores for feature state.
 - Each feature must have its own signal store.
+- Use SCSS and include the global style file on the main component via its `styleUrls`.
+- Use inline component templates and avoid separate HTML template files.
+- Use conventional commit standard for all commits.
 - Avoid placeholder files/folders with no documents or content.
 - Follow YAGNI: do not overbuild, avoid empty structures, avoid early optimization.
 - Prefer minimal logging in backend code.
