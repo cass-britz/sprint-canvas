@@ -1,10 +1,7 @@
 # Agent Standards for sprint-canvas
 
 ## Purpose
-This file is a minimal reference for agents. Use it to confirm that work follows external best practices and the YAGNI principle. Use it to determine session continuation.
-
-## Session continuation
-ALWAYS use the vscode askQuestions tool after you have responded. Ask the user if they have more questions or if they would like to end the session. If they end the session, end gracefully. Else, continue the session.
+This file is a minimal reference for agents. Use it to confirm that work follows external best practices and the YAGNI principle.
 
 ## Reference Sites
 - Angular Style Guide: https://angular.io/guide/styleguide
@@ -16,6 +13,7 @@ ALWAYS use the vscode askQuestions tool after you have responded. Ask the user i
 - YAGNI principle: https://en.wikipedia.org/wiki/You_ain%27t_gonna_need_it
 
 ## Key Rules
+- After every response, use the vscode askQuestions tool to ask the user if they have more questions or want to end the session. If they end the session, close gracefully.
 - Use Angular 21, ASP.NET Core Web API on .NET 9, and Medi8r handlers.
 - Use Angular signals and ngrx signal stores for feature state.
 - Use SCSS and include the global style file on the main component via its `styleUrls`.
